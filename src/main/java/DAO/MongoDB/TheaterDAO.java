@@ -3,9 +3,6 @@ package DAO.MongoDB;
 import com.mongodb.client.FindIterable;
 import com.mongodb.client.MongoCollection;
 
-import model.Theater;
-
-
 
 public class TheaterDAO extends AbsDAO  {
 
